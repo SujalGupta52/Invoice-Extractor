@@ -8,4 +8,5 @@
 
 ## Screenshot:
 
-![](/Screenshots/video.mp4)
+https://github.com/user-attachments/assets/1695b30e-0cab-44ed-9f7c-da4631aa9126
+
